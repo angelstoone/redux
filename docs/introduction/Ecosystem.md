@@ -22,7 +22,7 @@ On this page we will only feature a few of them that the Redux maintainers have 
 
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) — Learn how to use Redux step by step
 * [Redux Egghead Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) — Notes on the Redux [Egghead video course](https://egghead.io/series/getting-started-with-redux)
-* [Integrating Data with React Native](http://makeitopen.com/tutorials/building-the-f8-app/data/) — An intro to using Redux with React
+* [Integrating Data with React Native](http://makeitopen.com/tutorials/building-the-f8-app/data/) — An intro to using Redux with React Native
 * [What the Flux?! Let’s Redux.](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux) — An intro to Redux
 * [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/) — Another great intro to Redux
 * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) — A visual explanation of Redux data flow
@@ -56,9 +56,12 @@ On this page we will only feature a few of them that the Redux maintainers have 
 
 * [redux-thunk](http://github.com/gaearon/redux-thunk) — The easiest way to write async action creators
 * [redux-promise](https://github.com/acdlite/redux-promise) — [FSA](https://github.com/acdlite/flux-standard-action)-compliant promise middleware
+* [redux-axios-middleware](https://github.com/svrcekmichal/redux-axios-middleware) — Redux middleware for fetching data with axios HTTP client
+* [redux-observable](https://github.com/blesh/redux-observable/) — RxJS middleware for Redux
 * [redux-rx](https://github.com/acdlite/redux-rx) — RxJS utilities for Redux, including a middleware for Observable
 * [redux-logger](https://github.com/fcomb/redux-logger) — Log every Redux action and the next state
 * [redux-immutable-state-invariant](https://github.com/leoasis/redux-immutable-state-invariant) — Warns about state mutations in development
+* [redux-unhandled-action](https://github.com/socialtables/redux-unhandled-action) — Warns about actions that produced no state changes in development
 * [redux-analytics](https://github.com/markdalgleish/redux-analytics) — Analytics middleware for Redux
 * [redux-gen](https://github.com/weo-edu/redux-gen) — Generator middleware for Redux
 * [redux-saga](https://github.com/yelouafi/redux-saga) — An alternative side effect model for Redux apps
@@ -66,6 +69,7 @@ On this page we will only feature a few of them that the Redux maintainers have 
 ### Routing
 
 * [react-router-redux](https://github.com/reactjs/react-router-redux) — Ruthlessly simple bindings to keep React Router and Redux in sync
+* [redial](https://github.com/markdalgleish/redial) — Universal data fetching and route lifecycle management for React that works great with Redux
 
 ### Components
 
